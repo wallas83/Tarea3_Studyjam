@@ -1,0 +1,5 @@
+Tarea 3 Study Jam
+========================
+se hizo una maquetacion de una aplicaion de asistencia de puntos de parada de una linea x
+
+Link de los wireframes en Ninjamock de miproyecto final de staudyJam https://ninjamock.com/s/RDJDX
